@@ -9,7 +9,7 @@ El objetivo de esta kata es conocer los principios básicos de un lenguaje y có
 Hay que usar TDD. Recuerda: Es una metodología de desarrollo cuyo objetivo es crear primero las pruebas y luego escribir el software. Sus siglas en Inglés son: Test Driven Development y en español significa: Desarrollo guiado por pruebas.
 
 <aside>
-🚧 ![tdd](https://github.com/user-attachments/assets/e730e1b1-bd38-4d63-9d09-76eb2367add7)
+🚧 
 
 
 **Test → Red → Green → Refactor 🔁**
